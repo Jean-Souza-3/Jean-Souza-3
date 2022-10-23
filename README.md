@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 <img width="100px" src="https://media.discordapp.net/attachments/1033877403887472690/1033879336123633774/Sequencia_01_2.gif">
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Jean-Souza-3/Jean-Souza-3/blob/output/github-contribution-grid-snake.svg)
