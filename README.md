@@ -18,7 +18,7 @@
  <img align="center" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
  <img align="center" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
  <img align="center" width="50px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
- <img align="right" width="100px" src="https://media.discordapp.net/attachments/1033877403887472690/1033879336123633774/Sequencia_01_2.gif"/>
+ <img align="right" width="125px" src="https://media.discordapp.net/attachments/1033877403887472690/1033879336123633774/Sequencia_01_2.gif"/>
   </div>  
  
  ##
