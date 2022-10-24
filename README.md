@@ -7,8 +7,8 @@
  
  <div>
     <a href="https://github.com/Jean-Souza-3"/>
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Jean-Souza-3&theme=dracula&card_width=350&hide=contribs&count_private=true&border_radius=20&show_icons=true,prs">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Souza-3&theme=dracula&border_radius=20&layout=compact&card_width=350)](https://github.com/anuraghazra/github-readme-stats">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Jean-Souza-3&theme=dracula&card_width=300&hide=contribs&count_private=true&border_radius=20&show_icons=true,prs">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Souza-3&theme=dracula&border_radius=20&layout=compact&card_width=300)](https://github.com/anuraghazra/github-readme-stats">
  </div>
 
   <div style="display: inline_block"><br>
